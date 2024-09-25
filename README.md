@@ -18,7 +18,7 @@ Es un software que es ejecutable a través de un navegador como los de la pregun
 
 Una herramienta de ofimática son aplicaciones como Word donde podemos escribir o enviar documentos, Excel que nos permite crear tablas, PowerPoint que es para presentaciones entre otras, básicamente que nos permiten crear documentos, tablas o diferentes cosas para tener ordenado nuestros datos o cosas que queramos guardar
 
-5. [Herramientas de Google:] (https://www.google.com/intl/es-419/chrome/browser-tools/)
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 |Aplicaciones|Visto|
 |:------------:|:------:|
@@ -26,4 +26,4 @@ Una herramienta de ofimática son aplicaciones como Word donde podemos escribir 
 |Google slides|
 |Google sheets|
 |Google calendar|
-|[...](zebra stripes)|
+|...|
