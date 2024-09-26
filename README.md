@@ -8,7 +8,7 @@ Una pagina web es un conjunto de archivos y datos que nos permiten entrar en un 
 
 2. ¿Qué es un sitio web?
 
-This text in BLUE!Básicamente es un conjunto de paginas web que están en un mismo dominio
+Básicamente es un conjunto de paginas web que están en un mismo dominio
 
 3. ¿Qué es una aplicación web?
 
