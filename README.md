@@ -38,3 +38,7 @@ HTML es un tipo de código que estructura una pagina web junto a su contenido.
 
 CSS que en español hojas de estilo en cascada es un lenguaje de diseño o presentación que se usa para paginas web para que su propio diseño quede mas minimalista o bonito.
 
+8.Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Flujo de trabajo](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/commit/0e01dcc901ee77313ed0ff31e7766061abc937ca.png)
+
