@@ -22,8 +22,8 @@ Una herramienta de ofimática son aplicaciones como Word donde podemos escribir 
 
 |Aplicaciones|Visto|
 |:------------:|:------:|
-|Google Docs|[tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
-|Google slides|[tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
-|Google sheets|[tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
+|Google Docs|![tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
+|Google slides|![tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
+|Google sheets|![tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
 |Google calendar|
 |...|
