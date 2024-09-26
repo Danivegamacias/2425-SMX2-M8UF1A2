@@ -8,7 +8,7 @@ Una pagina web es un conjunto de archivos y datos que nos permiten entrar en un 
 
 2. ¿Qué es un sitio web?
 
-Básicamente es un conjunto de paginas web que están en un mismo dominio
+this text in BLUE! Básicamente es un conjunto de paginas web que están en un mismo dominio
 
 3. ¿Qué es una aplicación web?
 
@@ -39,6 +39,8 @@ HTML es un tipo de código que estructura una pagina web junto a su contenido.
 CSS que en español hojas de estilo en cascada es un lenguaje de diseño o presentación que se usa para paginas web para que su propio diseño quede mas minimalista o bonito.
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+Un flujo de trabajo en HTML como se puede ver en la foto se compone de diferentes pasos, el primero como en cualquier trabajo seria la pla
 
 ![Flujo de trabajo](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20171752.png)
 
