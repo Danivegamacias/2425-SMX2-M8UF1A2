@@ -40,5 +40,5 @@ CSS que en español hojas de estilo en cascada es un lenguaje de diseño o prese
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Flujo de trabajo](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/commit/0e01dcc901ee77313ed0ff31e7766061abc937ca.png)
+![Flujo de trabajo](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/commit/0e01dcc901ee77313ed0ff31e7766061abc937ca)
 
