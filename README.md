@@ -4,7 +4,7 @@
 
 1. ¿Qué es una página web?
 
-#0969DA Una pagina web es un conjunto de archivos y datos que nos permiten entrar en un documento visible a través un navegador como Google, yahoo, Firefox...
+Una pagina web es un conjunto de archivos y datos que nos permiten entrar en un documento visible a través un navegador como Google, yahoo, Firefox...
 
 2. ¿Qué es un sitio web?
 
@@ -40,7 +40,5 @@ CSS que en español hojas de estilo en cascada es un lenguaje de diseño o prese
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-<p align="center">
-!(https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20171752.png)
-<\p>
+![Flujo de trabajo](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20171752.png)
 
