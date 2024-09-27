@@ -28,10 +28,11 @@ Una herramienta de ofimática son aplicaciones como Word donde podemos escribir 
 |Google calendar|![calendar](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20170313.png)|
 |...|...|
 
-6. ¿Qué es HTML?
+6. ¿Qué es ```HTML```?
 
 HTML es un tipo de código que estructura una pagina web junto a su contenido.
 
+```
 <!DOCTYPE html>
 <HTML lang="en">
 <head>
@@ -44,8 +45,9 @@ HTML es un tipo de código que estructura una pagina web junto a su contenido.
 
 </body>
 </html>
+```
 	
-7. ¿Qué es CSS?
+7. ¿Qué es ```CSS```?
 
 CSS que en español hojas de estilo en cascada es un lenguaje de diseño o presentación que se usa para paginas web para que su propio diseño quede mas minimalista o bonito.
 
