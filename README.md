@@ -32,8 +32,19 @@ Una herramienta de ofimática son aplicaciones como Word donde podemos escribir 
 
 HTML es un tipo de código que estructura una pagina web junto a su contenido.
 
-![HTML](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20170834.png)
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport content="width=device-width, initial-scale=1.0>
+    <title>Document</title>
+</head>
+<body>
 
+</body>
+</html>
+	
 7. ¿Qué es CSS?
 
 CSS que en español hojas de estilo en cascada es un lenguaje de diseño o presentación que se usa para paginas web para que su propio diseño quede mas minimalista o bonito.
