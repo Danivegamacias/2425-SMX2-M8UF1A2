@@ -40,7 +40,5 @@ CSS que en español hojas de estilo en cascada es un lenguaje de diseño o prese
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-Un flujo de trabajo en HTML como se puede ver en la foto se compone de diferentes pasos, el primero como en cualquier trabajo seria la pla
-
 ![Flujo de trabajo](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20171752.png)
 
