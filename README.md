@@ -26,7 +26,7 @@ Una herramienta de ofimática son aplicaciones como Word donde podemos escribir 
 |Google slides|![tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
 |Google sheets|![tick](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20165404.png)|
 |Google calendar|![calendar](https://github.com/Danivegamacias/2425-SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202024-09-26%20170313.png)|
-|Google meet|![ordenador](https://github.com/Danivegamacias/VegaMacias-Dani-2425-SMX2-M8-UF1A2/commit/6d7f0545f70e4b9145a42c665cd929a21c0bc203)|
+|Google meet|![ordenador](https://github.com/Danivegamacias/VegaMacias-Dani-2425-SMX2-M8-UF1A2/blob/main/Captura%20de%20pantalla%202024-09-27%20154135.png)|
 |...|...|
 
 6. ¿Qué es ```HTML```?
