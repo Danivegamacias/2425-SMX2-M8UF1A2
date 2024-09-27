@@ -4,7 +4,7 @@
 
 1. ¿Qué es una página web?
 
-Una pagina web es un conjunto de archivos y datos que nos permiten entrar en un documento visible a través un navegador como Google, yahoo, Firefox...
+#0969DA Una pagina web es un conjunto de archivos y datos que nos permiten entrar en un documento visible a través un navegador como Google, yahoo, Firefox...
 
 2. ¿Qué es un sitio web?
 
